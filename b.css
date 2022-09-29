@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(226, 177, 43);
+}
+p{
+    font-size:xx-large;
+
+}
+
+h1{
+    font-size: xx-large;
+}
+strong{
+    color: red;
+    font-size: xx-large;
+}
+h2{
+    color: skyblue;
+    font-size: xx-large;
+}
+button{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid;
+    align-self: auto;
+}
